@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct FocusNow_Watch_AppApp: App {
+struct FocusNowApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
